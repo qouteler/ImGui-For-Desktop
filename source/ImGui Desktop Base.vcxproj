@@ -179,6 +179,7 @@
     <ClInclude Include="..\include\ImGui\imstb_truetype.h" />
     <ClInclude Include="common.hpp" />
     <ClInclude Include="gui.hpp" />
+    <ClInclude Include="style.hpp" />
   </ItemGroup>
   <ItemGroup>
     <Natvis Include="..\include\ImGui\imgui.natvis" />
